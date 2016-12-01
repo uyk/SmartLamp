@@ -1,0 +1,3582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+<w:styles>
+<w:style w:type="table" w:styleId="table1">
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single"/>
+<w:left w:val="single"/>
+<w:bottom w:val="single"/>
+<w:right w:val="single"/>
+<w:insideH w:val="single"/>
+<w:insideV w:val="single"/>
+</w:tblBorders>
+</w:tblPr>
+</w:style>
+</w:styles>
+<w:docPr>
+<w:view w:val="print"/>
+<w:compat>
+<w:spaceForUL/>
+<w:balanceSingleByteDoubleByteWidth/>
+<w:doNotLeaveBackslashAlone/>
+<w:ulTrailSpace/>
+<w:doNotExpandShiftReturn/>
+<w:adjustLineHeightInTable/>
+<w:snapToGridInCell/>
+<w:wrapTextWithPunct/>
+<w:useAsianBreakRules/>
+<w:dontGrowAutofit/>
+<w:useFELayout/>
+</w:compat>
+</w:docPr>
+<w:body>
+<wx:sect>
+<w:p>
+<w:r>
+<w:pict>
+<v:shapetype id="_x0000_t202" path="m,l,21600r21600,l21600,xe"/>
+<v:shape type="_x0000_t202" style="position:absolute;mso-position-vertical-relative:page;mso-position-horizontal-relative:margin;margin-left:169.858457pt;margin-top:14.173228pt;width:204pt;height:28.346pt" filled="f" fillcolor="#FFFFFF" strokecolor="#000000" stroked="f">
+<v:textbox inset="2pt,0pt,2pt,0pt">
+<w:txbxContent>
+<w:p>
+<w:pPr>
+<w:spacing w:line="450" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="바탕체" w:fareast="바탕체"/>
+<w:color w:val="#000000"/><w:b/>
+<w:u w:val="single"/>
+<w:sz w:val="40"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>졸 업 연 구 계 획 서</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:shape>
+</w:pict>
+</w:r>
+<w:r>
+<w:pict>
+<v:shape type="_x0000_t202" style="position:absolute;mso-position-vertical-relative:page;mso-position-horizontal-relative:margin;margin-left:340.78745699999996pt;margin-top:47.622228pt;width:197.858pt;height:14.173pt" filled="f" fillcolor="#FFFFFF" strokecolor="#000000" stroked="f">
+<v:textbox inset="2pt,2pt,2pt,0pt">
+<w:txbxContent>
+<w:p>
+<w:pPr>
+<w:spacing w:line="190" w:line-rule="exact"/>
+<w:jc w:val="right"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="바탕체" w:fareast="바탕체"/>
+<w:color w:val="#000000"/><w:sz w:val="14"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>2016년10월07일 금 03시18분46초 오후</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:shape>
+</w:pict>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblpPr w:leftFromText="20" w:tblpX="47" w:tblpY="952"/>
+<w:tblLayout w:type="Fixed"/>
+</w:tblPr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="340"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3963" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학과</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2551" w:type="dxa"/>
+<w:gridSpan w:val="2"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학번</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학년</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2268" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>성명</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="340"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3963" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>컴퓨터공학부</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2551" w:type="dxa"/>
+<w:gridSpan w:val="2"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>2013136074</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2268" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>유예겸</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="620"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vmerge w:val="restart"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>연구과제명</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>(국문20자</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>,영문40자</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이내로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기재)</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1814" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>국문</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="6968" w:type="dxa"/>
+<w:gridSpan w:val="5"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>스마트</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>보이스</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>램프</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vmerge/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p/>
+</w:tc>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="620"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1814" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>영문</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="6968" w:type="dxa"/>
+<w:gridSpan w:val="5"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>Smart</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>Voice</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>Lamp</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="300"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vmerge w:val="restart"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>연구실적물형태</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1814" w:type="dxa"/>
+<w:vmerge w:val="restart"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>작품</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1769" w:type="dxa"/>
+<w:gridSpan w:val="2"/>
+<w:vmerge w:val="restart"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>과제수행</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>예정학기</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="5199" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="nil" w:sz="0" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>2016</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학년도</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>2학기부터</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vmerge/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p/>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1814" w:type="dxa"/>
+<w:vmerge/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p/>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1769" w:type="dxa"/>
+<w:gridSpan w:val="2"/>
+<w:vmerge/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p/>
+</w:tc>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="380"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="5199" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="nil" w:sz="0" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="260" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>2017</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학년도</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>1학기까지</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="480"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>연구목적(목표)</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>소리와</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>빛을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이용하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>날씨정보,</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이메일,</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>SNS</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>알람을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>표시하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>음성인식</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>스마트</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>램프</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>IoT</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제품을</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제작한다.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="700"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>연구</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>대상</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>범위</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="239" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>라즈베리파이를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이용하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>날씨</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>정보를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>받아오는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능과</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이메일,</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>SNS</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>등의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>정보를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>받아오는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="239" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="239" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>식하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>분석하고,</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>분석한</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>데이터로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>라즈베리파이를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제어하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>연구한다.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="920"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>연구과제수행</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>과정</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>및</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>방법</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기상청의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>RSS피드를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>읽어와</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>날씨에</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>따라</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>램프의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>빛을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>변화시킨다.IFTTT를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>사용해</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이메일,</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>SNS,</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>일정</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>알림등을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>받아와</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>램프의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>빛으로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>표시하며</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>보이스로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>알림을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>알려준다.구글의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>음성인식</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>API를</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>주거나</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이메일</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>등의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>알림을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>확인한다.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="400"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vmerge w:val="restart"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>추</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>진</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>일</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>정</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>(</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>과제수행</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>예정학기</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>중</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>추진할</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>사항을</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>월별로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>배정하여</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기입)</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>추진할</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>사항</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vmerge/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p/>
+</w:tc>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="2280"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>10월</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>라즈베리파이를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이용하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기상청의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>RSS를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>받아와</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>파싱한다.</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>파싱한</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>데이터를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이용하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>LED</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>빛을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>조절하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>구현한다.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>11월</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>IFTTT를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이용하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>라즈베리파이를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제어하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기술을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>공부한다.</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학습한</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>구현한다.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>12월</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>음성을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>인식하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>분석하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>공부한다.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>1월</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>음성을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>인식하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>분석하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이용해</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>받아온</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>정보를</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>음성으로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>출력하는</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>구현한다.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>2월</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>램프의</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>외관</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제작을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>위한</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>3D프린터</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기술을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>학습하여</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>외관을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제작한다.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>3월</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>부족한</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기능을</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>보완하며</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>최종적으로</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>점검한다.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="480"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>참고할</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>문헌</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>3D</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>프린팅</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>도안</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>http://www.thingiverse.com/라즈베리파이</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>관련</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>프로젝트</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="20"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>정보</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>https://www.hackster.io/</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="440"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>기</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>타</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>사</w:t>
+</w:r>
+<w:r>
+	<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:sz w:val="24"/>		<w:spacing w:val="-20"/>
+	</w:rPr>
+	<w:t></w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>항</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p/>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:h-rule="exact" w:val="454"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1984" w:type="dxa"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="300" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>지도교수</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="8782" w:type="dxa"/>
+<w:gridSpan w:val="6"/>
+<w:vAlign w:val="center"/>
+<w:tcBorders>
+<w:left w:val="single" w:sz="2" w:color="#000000"/>
+<w:right w:val="single" w:sz="2" w:color="#000000"/>
+<w:top w:val="single" w:sz="2" w:color="#000000"/>
+<w:bottom w:val="single" w:sz="2" w:color="#000000"/>
+</w:tcBorders>
+<w:tcMar>
+<w:left w:w="40" w:type="dxa"/>
+<w:right w:w="40" w:type="dxa"/>
+<w:top w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:shd w:fill="#FFFFFF"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:framePr w:wrap="around" w:vanchor="page" w:hanchor="page"/>
+<w:snapToGrid w:val="off"/>
+<w:spacing w:line="220" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="20"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>이재협</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p>
+<w:r>
+<w:pict>
+<v:shape type="_x0000_t202" style="position:absolute;mso-position-vertical-relative:page;mso-position-horizontal-relative:margin;margin-left:106.362457pt;margin-top:635.8362280000002pt;width:327.685pt;height:56.126pt" filled="f" fillcolor="#FFFFFF" strokecolor="#000000" stroked="f">
+<v:textbox inset="2pt,5pt,2pt,0pt">
+<w:txbxContent>
+<w:p>
+<w:pPr>
+<w:spacing w:line="290" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>위와 같이 졸업연구 계획서를 제출합니다.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:line="290" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>20      년           월           일 </w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:line="290" w:line-rule="exact"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>제출자(또는 공동연구 대표)                                                    (인)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:shape>
+</w:pict>
+</w:r>
+<w:r>
+<w:pict>
+<v:shape type="_x0000_t202" style="position:absolute;mso-position-vertical-relative:page;mso-position-horizontal-relative:margin;margin-left:0.3464570000000009pt;margin-top:684.0252280000002pt;width:113.386pt;height:14.173pt" filled="f" fillcolor="#FFFFFF" strokecolor="#000000" stroked="f">
+<v:textbox inset="2pt,0pt,2pt,0pt">
+<w:txbxContent>
+<w:p>
+<w:pPr>
+<w:spacing w:line="290" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>* 심사결과</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:shape>
+</w:pict>
+</w:r>
+<w:r>
+<w:pict>
+<v:shape type="_x0000_t202" style="position:absolute;mso-position-vertical-relative:page;mso-position-horizontal-relative:margin;margin-left:0.3464570000000009pt;margin-top:699.8992280000002pt;width:538.299pt;height:47.055pt" filled="f" fillcolor="#FFFFFF" strokecolor="#000000" strokeweight="0pt">
+<v:textbox inset="2pt,4pt,2pt,0pt">
+<w:txbxContent>
+<w:p>
+<w:pPr>
+<w:spacing w:line="390" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>지도교수의견</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:line="390" w:line-rule="exact"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="굴림" w:fareast="굴림"/>
+<w:color w:val="#000000"/><w:sz w:val="24"/><w:spacing w:val="-6"/></w:rPr>
+<w:t>승인 및 확인 연구지도교수 :                                (인)  학(부)과장 :                              (인)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:shape>
+</w:pict>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:pgSz w:w="11899" w:h="16840"/>
+<w:pgMar w:top="283" w:right="566" w:bottom="283" w:left="560" w:header="0" w:footer="0" w:gutter="0"/>
+<w:docGrid w:type="lines" w:line-pitch="360"/>
+</w:sectPr>
+</wx:sect>
+</w:body>
+</w:wordDocument>
