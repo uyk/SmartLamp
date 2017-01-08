@@ -29,12 +29,11 @@ var option = {
 
 
 app.get('/', function (req,res) {
-    console.log('app.get');
+    console.log('app.get "/" ');
     res.send('abc');
 });
 app.get('/get', function (req,res) {
     console.log('app.get /get');
-    console.log('end of get');
     res.send('get');
 });
 app.post('/test', function(req,res) {
@@ -58,7 +57,7 @@ app.post('/test', function(req,res) {
     request.post(option, function (err, res, body) {
         console.log(body);
     });
-    
+
     res.send("Success");
 });
 /*

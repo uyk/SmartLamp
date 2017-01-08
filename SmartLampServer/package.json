@@ -1,0 +1,19 @@
+{
+  "name": "smartlampserver",
+  "version": "1.0.0",
+  "description": "Server of project smart lamp",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "nodejs": "^0.0.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "author": "uyk",
+  "license": "ISC"
+}
