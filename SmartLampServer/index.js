@@ -13,6 +13,10 @@ var client_id = 'fa5RCa6jbNzwl9FnkdKj';
 var client_secret = 'Xdfz2Cg1kr';
 
 var longtext = "";
+var isData = false;
+var color = "0,0,0";
+var empty = "empty";
+
 
 var optionsTTS = {
     url: "https://openapi.naver.com/v1/voice/tts.bin",
@@ -20,33 +24,23 @@ var optionsTTS = {
     headers: {'X-Naver-Client-Id':client_id, 'X-Naver-Client-Secret': client_secret}
 };
 
-var piIP = "http://218.150.183.144:5000";
-var optionsPi = {
-    uri : piIP + "/error",
-    method : "POST",
-    headers: {
-        'Content-Type': 'application/x-www-form-urlencoded'
-    },
-    form : {
-    }
-};
-
 app.use(bodyParser.urlencoded({extended : false}));
+app.use(bodyParser.json());
 app.use(express.static('public'));
 
 app.get('/', function (req,res) {
     console.log('app.get "/" ');
 });
 
-//파이로부터 1초마다 호출
+//파이로부터 1초마다 호출됨
 app.get('/smartLamp', function(req,res) {
-    res.body = {
-        flag : 1,
-        colorR : 255,
-        colorG : 255,
-        colorB : 255
+    if(isData) {
+        isData = false;     //한번 데이터 출력한 후 초기화
+        res.send(color);
     }
-    res.send("Test");
+    else {
+        res.send(empty);
+    }
 });
 
 app.post('/facebook', function(req,res) {
@@ -54,7 +48,7 @@ app.post('/facebook', function(req,res) {
     var myMessage = req.body.myMessage;
     var updateAt = req.body.updateAt;
 
-    optionsPi.uri = piIP + "/facebook";
+    //optionsPi.uri = piIP + "/facebook";
     longtext = "페이스북에" + req.body.from + "님이 " + req.body.myMessage + "라고 게시했습니다.";
     optionsTTS.form.text = longtext;
 
@@ -70,6 +64,8 @@ app.post('/facebook', function(req,res) {
     });
     _req.pipe(writeStream); // file로 출력
 
+    isData = true;
+    color = "155,155,155";
     res.send("Success");
 });
 app.listen(port, function () {
