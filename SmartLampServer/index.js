@@ -17,7 +17,6 @@ var isData = false;
 var color = "0,0,0";
 var empty = "empty";
 
-
 var optionsTTS = {
     url: "https://openapi.naver.com/v1/voice/tts.bin",
     form: {'speaker':'mijin', 'speed':'0', 'text':''},
@@ -48,7 +47,6 @@ app.post('/facebook', function(req,res) {
     var myMessage = req.body.myMessage;
     var updateAt = req.body.updateAt;
 
-    //optionsPi.uri = piIP + "/facebook";
     longtext = "페이스북에" + req.body.from + "님이 " + req.body.myMessage + "라고 게시했습니다.";
     optionsTTS.form.text = longtext;
 
@@ -67,6 +65,16 @@ app.post('/facebook', function(req,res) {
     isData = true;
     color = "155,155,155";
     res.send("Success");
+});
+
+var count = 1000;
+app.get('/newfacebook',function(req,res) {
+    var makerurl = "https://maker.ifttt.com/trigger/facebook/with/key/cS6GymDOL8f4QZM80nqejw?value1=";
+    makerurl += count++;
+    request(makerurl, function(error, response, body) {
+       console.log(body);
+    });
+    res.send("newfacebook");
 });
 app.listen(port, function () {
     console.log('http://218.150.183.150:3000/tts app listening on port 3000!');
