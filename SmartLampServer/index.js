@@ -1,6 +1,8 @@
 
 var express = require("express");
 var bodyParser = require("body-parser");
+var request = require("request");
+var fs = require('fs');
 
 var app = express();
 var port = 3000;
@@ -9,7 +11,16 @@ var isData = false;
 var empty = "empty";
 var longtext = "";
 
+var client_id = 'fa5RCa6jbNzwl9FnkdKj';
+var client_secret = 'Xdfz2Cg1kr';
+var optionsTTS = {
+    url: "https://openapi.naver.com/v1/voice/tts.bin",
+    form: {'speaker':'mijin', 'speed':'0', 'text':''},
+    headers: {'X-Naver-Client-Id':client_id, 'X-Naver-Client-Secret': client_secret}
+};
+
 app.use(bodyParser.urlencoded({extended : false}));
+app.use(express.static('public'));
 
 app.get('/', function (req,res) {
     console.log('app.get "/" ');
@@ -34,6 +45,14 @@ app.post('/facebook', function(req,res) {
 
     longtext = "페이스북에" + req.body.from + "님이" + req.body.myMessage + "라고 게시했습니다.";
     console.log(longtext);
+
+    optionsTTS.form.text = longtext;
+    var writeStream = fs.createWriteStream('./public/tts1.mp3');
+    var _req = request.post(optionsTTS).on('response', function(response) {
+        console.log(response.statusCode) ;// 200
+        console.log(response.headers['content-type'])
+    });
+    _req.pipe(writeStream); // file로 출력
 
     isData = true;
     res.send("Success");

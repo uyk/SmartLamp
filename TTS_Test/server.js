@@ -15,7 +15,7 @@ app.get('/tts', function (req, res) {
         form: {'speaker':'mijin', 'speed':'0', 'text':'좋은 하루 되세요'},
         headers: {'X-Naver-Client-Id':client_id, 'X-Naver-Client-Secret': client_secret}
     };
-    var writeStream = fs.createWriteStream('./tts1.mp3');
+    var writeStream = fs.createWriteStream('./tts.mp3');
     var _req = request.post(options).on('response', function(response) {
         console.log(response.statusCode) // 200
         console.log(response.headers['content-type'])
