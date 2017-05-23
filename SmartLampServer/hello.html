@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+    <script>
+        var httpRequest;
+        var audio = new Audio();
+        if (annyang) {
+            // Let's define a command.
+            var commands = {
+                '안녕': function() {
+                    alert('안녕하세요');
+                    newHttpRequest();
+                },
+                '반가워': function() {
+                    alert('반가워요');
+                    newHttpRequest();
+                },
+                '지금 몇시야': function () {
+                    alert('지금시간은요');
+                    newHttpRequest();
+                    //audio.src = 'http://218.150.183.150:3000/time.mp3';
+                    httpRequest.send("type=time&date=today");
+                },
+                '오늘이 며칠이야': function () {
+
+                    alert('오늘은요');
+                    newHttpRequest();
+                    //audio.src = 'http://218.150.183.150:3000/day.mp3';
+                    httpRequest.send("type=day&date=today");
+                },
+                '페이스북에 올려줘 ' : function() {
+                    alert('페이스북');
+                    newHttpRequest();
+                    httpRequest.send("type=facebook&content=" + content);
+                },
+                '잘가 *content ' : function() {
+                    alert('페');
+                    newHttpRequest();
+                    httpRequest.send("type=facebook&content=" + content);
+                },
+                '페이스북' : function() {
+                    alert('페이스북');
+                    newHttpRequest();
+                    httpRequest.send("type=facebook&content=" + content);
+                }
+            };
+            annyang.setLanguage("ko");
+            // Add our commands to annyang
+            annyang.addCommands(commands);
+            // Start listening.
+            annyang.start();
+        }
+
+        function newHttpRequest() {
+            httpRequest = new XMLHttpRequest();
+            if (!httpRequest) {
+                alert('Giving up :( Cannot create an XMLHTTP instance');
+            }
+            httpRequest.onreadystatechange = alertContents;
+            httpRequest.open('POST', 'http://218.150.183.150:3000/voice');
+            httpRequest.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+        }
+
+        function alertContents() {
+            if (httpRequest.readyState === 4) {
+                alert("d");
+                var audio = new Audio();
+                audio.src = 'http://218.150.183.150:3000/day.mp3';
+                audio.play();
+                /*
+                if (httpRequest.status === 200) {
+                    alert(httpRequest.responseText);
+                } else {
+                    alert(httpRequest.status);
+                }*/
+            }
+        }
+    </script>
+</body>
+</html>
